@@ -1,9 +1,8 @@
 ## Olá eu sou o Joelson Luiz Conceição Cerqueira
 
 <p> Sou estudante de desenvolvimento de software, estou trilhando o caminho fullstack, atualmente estou cursando o ensino superior em </p>
-<p> <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Estácio de Sá - UNESA</strong>. Além disso eu faço cursos na internet em plataformas como: </p>
-<p> YouTube, JDevTreinamentos, DevMedia, Udemy e Origamid. Estou em constante desenvolvimento profissional, sou esforçado, comprometido e </p>
-<p> estou em busca de oportunidade de trilhar uma carreira longa na área de desenvolvimento de sistemas.</p>
+<p> <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Estácio de Sá - UNESA</strong>. Além disso eu faço cursos na internet em   </p><p>plataformas como: YouTube, JDevTreinamentos, DevMedia, Udemy e Origamid. Estou em constante desenvolvimento profissional, </p>
+<p> sou esforçado, comprometido e estou em busca de oportunidade de trilhar uma carreira longa na área de desenvolvimento de sistemas.</p>
 
 ##
 ## Algumas Habilidades
