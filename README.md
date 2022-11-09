@@ -19,8 +19,7 @@
   <img align="center" alt="Joe-Git" height="80" width="80" src="https://icon-library.com/images/github-svg-icon/github-svg-icon-1.jpg" />
   <img align="center" alt="Joe-MySql" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" />
   <img align="center" alt="Joe-Postgres" height="80" width="80" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
-  <img align="center" alt="Joe-Typescript" height="80" width="80" src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/v2/packages/typescriptlang-org/static/branding/ts-logo-512.svg" />
-   <img align="center" alt="Joe-Typescript" height="80" width="80" src="https://www.pngkit.com/png/detail/866-8665831_the-postman-logo-is-available-in-png-svg.png" />
+
 </div>
 
 ##
