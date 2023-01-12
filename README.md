@@ -15,7 +15,7 @@
   <img align="center" alt="Joe-Css3" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
   <img align="center" alt="Joe-Spring" height="80" width="80" src="https://www.openxcell.com/wp-content/uploads/2021/10/springboot-inner.svg" />
   <img align="center" alt="Joe-Angular" height="80" width="80" src="https://angular.io/assets/images/logos/angular/angular.png" />
-  <img align="center" alt="Joe-Hibernate" height="80" width="80" src="https://www.decodejava.com/hibernate_logo.svg" />
+  <img align="center" alt="Joe-Hibernate" height="80" width="80" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" />
   <img align="center" alt="Joe-Git" height="80" width="80" src="https://icon-library.com/images/github-svg-icon/github-svg-icon-1.jpg" />
   <img align="center" alt="Joe-MySql" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" />
   <img align="center" alt="Joe-Postgres" height="80" width="80" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
@@ -28,13 +28,6 @@
   <a href="https://www.linkedin.com/in/joelson-l-c-cerqueira-906a32195"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
-## Estatísticas De Repositórios
-
-<div style="display: flex;">
-  <img " height="180em" src="https://github-readme-stats.vercel.app/api?username=Joelson0935&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelson0935&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 
