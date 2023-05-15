@@ -6,6 +6,11 @@
 <p> Meu curso superior é no modelo EAD - Ensino à Distância e meu foco é trabalho em modelo remoto, pois moro em interior. </p>
 
 ##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelson0935&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+
 ## Algumas Habilidades
 
 <div style="display: inline_block"><br>
