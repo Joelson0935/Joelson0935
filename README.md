@@ -10,7 +10,7 @@
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelson0935&show_icons=true&theme=radical)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelson0935&show_icons=true&theme=radical)](https://github.com/Joelson0935/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelson0935&theme=radical)
 ##
 
 ## Algumas Habilidades
