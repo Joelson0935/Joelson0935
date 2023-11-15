@@ -6,11 +6,10 @@
 <p> Meu curso superior é no modelo EAD - Ensino à Distância e meu foco é trabalho em modelo remoto, pois moro em cidade pequena. </p>
 
 ##
-
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelson0935&show_icons=true&theme=radical)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelson0935&layout=donut&theme=radical)
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelson0935&theme=radical)
 ##
 
 ## Algumas Habilidades
